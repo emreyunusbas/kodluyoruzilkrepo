@@ -6,7 +6,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Bu repo Kodluyoruz Başlangıç Seviye Java ile Backend Web Development Patikası ile oluşturduğumuz ilk repo. 
 İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![screenshot]()
+![screenshot](https://github.com/emreyunusbas/kodluyoruzilkrepo/blob/main/ekrangoruntusu.png)
 ***
 
 ##Installation
